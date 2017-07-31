@@ -27,7 +27,7 @@ GRU treats the article text as a sequence of words. A GRU with an annotation dim
 GRU-Avg runs a GRU on the sequence of word embeddings and returns all hidden annotations at each time step. The average of these hidden annotations is used as the feature vector. <br/>
 HAN and Variants include HAN-Ave, Han-Max and HAN. HAN uses a two level hierarchical attention network. HAN-Ave and Han-Max replaces the attention mechanism with average and max pooling for composition respectively. Since the code is not officially released we use our own implementation.
 
-Requirements: <br/>
+***Requirements:*** <br/>
 
 Keras 2.0.4 <br/>
 Theano 0.9.0 <br/>
