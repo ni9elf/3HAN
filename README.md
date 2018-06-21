@@ -41,4 +41,8 @@ The baselines folder contains code for:
 * Theano 0.9.0 
 * Python 3.4.3
 
+## Reference
 
+Singhania S., Fernandez N., Rao S. (2017) 3HAN: A Deep Neural Network for Fake News Detection. In: Liu D., Xie S., Li Y., Zhao D., El-Alfy ES. (eds) Neural Information Processing. ICONIP 2017. Lecture Notes in Computer Science, vol 10635. Springer, Cham
+
+## 
