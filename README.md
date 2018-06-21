@@ -3,6 +3,10 @@ This repository contains the code for the models, baselines and visualizations u
 ***Abstract***:
 The proliferation of fake news has possibly led to a mis-informed public opinion. We propose 3HAN, a three level hierarchical attention network, which creates a news vector, a representation of news articles to detect fake news. Our model (i) interprets the structure of an article as a three level hierarchy of words, sentences and headline, (ii) treats the headline as a distinctive feature and (iii) uses attention to differentiate elements of an hierarchy consistent with their interactions when constructing the news vector. Experiments on our large real world data set demonstrate the effectiveness of news vector in giving state-of- the-art performance. Visualizing the attention layers provides important parts of an article which is helpful in further human fact-checking.
 
+<p align="center"> 
+<img src="assets/architecture.png">
+</p>
+
 ***Models***:
 The models folder contains code for all the models run in the paper. These include: <br/>
 3HAN-Ave: Vectors are composed using global average pooling <br/>
