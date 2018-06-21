@@ -37,8 +37,8 @@ The baselines folder contains code for:
 
 ## Requirements 
 
-Keras 2.0.4 
-Theano 0.9.0 
-Python 3.4.3
+* Keras 2.0.4 
+* Theano 0.9.0 
+* Python 3.4.3
 
 
